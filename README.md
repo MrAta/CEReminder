@@ -1,5 +1,7 @@
 # CEReminder
 <a href="http://ce.sharif.edu/programs-and-courses/">CE courseware</a> does not inform students when there is any update.
+but some courses have a lot of updates each day(see courses taught by <a href="http://sharif.edu/~abtahi/">instructor abtahi</a> for example)
+<br/>
 This python script checks whethere there is any update or not, if so, send an email and informs the updates!
 #Usage
 1. set course_url with proper value
